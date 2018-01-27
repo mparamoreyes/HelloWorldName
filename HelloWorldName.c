@@ -1,4 +1,4 @@
-/**
+ /**
 Author: Maricela Paramo 
 Date: 01/26/2018
 This program prints my name.
@@ -8,7 +8,7 @@ This program prints my name.
 
 int main(int argc, char **argb) 
 {
-printf("Maricela Paramo!\n");
+printf("Maricela Paramo Kenny Olivares!\n");
 
 return 0;
 }
